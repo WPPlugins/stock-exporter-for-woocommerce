@@ -1,0 +1,137 @@
+# Copyright (C) 2015 WooCommerce Stock Exporter
+# This file is distributed under the same license as the WooCommerce Stock Exporter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Stock Exporter 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-stock-"
+"exporter\n"
+"POT-Creation-Date: 2016-05-11 16:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Webdados <info@webdados.pt>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: woocommerce-stock-exporter.php:53
+msgid "SKU"
+msgstr "REF"
+
+#: woocommerce-stock-exporter.php:58
+msgid "Product type"
+msgstr "Tipo de produto"
+
+#: woocommerce-stock-exporter.php:63
+msgid "Product"
+msgstr "Produto"
+
+#: woocommerce-stock-exporter.php:68
+msgid "Categories"
+msgstr "Categorias"
+
+#: woocommerce-stock-exporter.php:73
+msgid "Regular price"
+msgstr "Preço normal"
+
+#: woocommerce-stock-exporter.php:78
+msgid "Price"
+msgstr "Preço"
+
+#: woocommerce-stock-exporter.php:83
+msgid "Custom fields (comma separated)"
+msgstr "Campos de utilizador (separados por vírgula)"
+
+#: woocommerce-stock-exporter.php:88
+msgid "Stock"
+msgstr "Stock"
+
+#: woocommerce-stock-exporter.php:112 woocommerce-stock-exporter.php:139
+msgctxt "admin page title"
+msgid "Stock Exporter for WooCommerce"
+msgstr "Exportação de Stock para WooCommerce"
+
+#: woocommerce-stock-exporter.php:112
+msgctxt "admin menu item"
+msgid "Stock Exporter"
+msgstr "Exportação de Stock"
+
+#: woocommerce-stock-exporter.php:120
+msgid "All products"
+msgstr "Todos os produtos"
+
+#: woocommerce-stock-exporter.php:124
+msgid "Products with managed stock"
+msgstr "Produtos com gestão de stock"
+
+#: woocommerce-stock-exporter.php:130
+msgid "CSV file"
+msgstr "Ficheiro CSV"
+
+#: woocommerce-stock-exporter.php:134
+msgid "HTML table on screen"
+msgstr "Tabela HTML no ecrã"
+
+#: woocommerce-stock-exporter.php:140
+msgid ""
+"Click the button below o generate a WooCommerce stock report, in CSV, of all "
+"the products on this website where stock is managed."
+msgstr ""
+"Clique no botão em baixo para gerar um Relatório de stocks do WooCommerce, "
+"em CSV, de todos os produtos deste website nos quais a gestão de stocks está "
+"activa."
+
+#: woocommerce-stock-exporter.php:145
+msgid ""
+"WPML users: You can export the report on a different language by changing it "
+"on this page top bar."
+msgstr ""
+"Utilizadores WPML: Pode exportar o relatório noutro idioma escolhendo-o na "
+"barra de topo desta página."
+
+#: woocommerce-stock-exporter.php:153
+msgid "Products to return"
+msgstr "Produtos a retornar"
+
+#: woocommerce-stock-exporter.php:167
+msgid "Fields"
+msgstr "Campos"
+
+#: woocommerce-stock-exporter.php:204
+msgid "Output"
+msgstr "<i>Output</i>"
+
+#: woocommerce-stock-exporter.php:219
+msgid "Export WooCommerce Stock"
+msgstr "Exportar Stocks do WooCommerce"
+
+#: woocommerce-stock-exporter.php:311 woocommerce-stock-exporter.php:313
+msgid "not managed"
+msgstr "sem gestão"
+
+#: woocommerce-stock-exporter.php:404
+msgid "products"
+msgstr "produtos"
+
+#. Plugin Name of the plugin/theme
+msgid "Stock Exporter for WooCommerce"
+msgstr "Exportaçao de Stock para WooCommerce"
+
+#. Description of the plugin/theme
+msgid "Simple stock report CSV exporter for WooCommerce"
+msgstr "Simples exportador de stocks, em CSV, para WooCommerce"
+
+#~ msgctxt "admin page title"
+#~ msgid "WooCommerce Stock Exporter"
+#~ msgstr "Exportador de Stock do WooCommerce"
+
+#~ msgid ""
+#~ "Click the button below o generate a WooCommerce stock report, in CSV, of "
+#~ "all the products on this website."
+#~ msgstr ""
+#~ "Clique no botão em baixo para gerar um Relatório de stocks do "
+#~ "WooCommerce, em CSV, de todos os produtos deste website nos quais existe "
+#~ "gestão de stocks."
